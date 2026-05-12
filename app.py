@@ -27,8 +27,8 @@ warnings.filterwarnings("ignore", category=FutureWarning)
 # Page config
 # ---------------------------------------------------------------------------
 st.set_page_config(
-    page_title="CVD Detection Tool",
-    page_icon="❤",
+    page_title="",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded",
 )
