@@ -151,7 +151,7 @@ PRED_BLURB = {
 # ---------------------------------------------------------------------------
 # Header
 # ---------------------------------------------------------------------------
-st.markdown('<div class="app-title">❤ Cardiovascular Disease Detection Tool</div>',
+st.markdown('<div class="app-title"></div>',
             unsafe_allow_html=True)
 st.markdown(
     '<div class="app-sub">Multi-class screening of <b>Healthy</b>, '
