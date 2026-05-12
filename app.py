@@ -43,7 +43,7 @@ st.markdown(
     .block-container { padding-top: 1.5rem; padding-bottom: 2rem; max-width: 1200px; }
 
     .app-title {
-        font-size: 2.1rem; font-weight: 700; color: #b91c1c;
+        font-size: 1.51rem; font-weight: 200; color: #b91c1c;
         margin-bottom: 0.1rem;
     }
     .app-sub {
