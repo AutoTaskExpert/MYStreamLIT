@@ -156,7 +156,7 @@ st.markdown('<div class="app-title">❤ Cardiovascular Disease Detection Tool</d
 st.markdown(
     '<div class="app-sub">Multi-class screening of <b>Healthy</b>, '
     '<b>Coronary Artery Disease</b> and <b>Heart Failure</b> from 16 clinical '
-    'inputs. Research prototype - not a diagnostic device.</div>',
+    'inputs.</div>',
     unsafe_allow_html=True,
 )
 
